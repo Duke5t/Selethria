@@ -13,7 +13,7 @@ ToDo List:
 - create inventory system
 - create menu interaction and control
 
-Storyline - Jon Elliotson
-Pixel art - Jon Elliotson
-Game Design - Spencer Brule
-Programming - Spencer Brule
+Storyline - Jon Elliotson;
+Pixel art - Jon Elliotson;
+Game Design - Spencer Brule;
+Programming - Spencer Brule;
