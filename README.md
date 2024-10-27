@@ -8,10 +8,10 @@ Version 1.1
 - Character sprite movements, animations
 
 ToDo List:
--create object collision
--impliment dialogue popups
--create inventory system
--create menu interaction and control
+- create object collision
+- impliment dialogue popups
+- create inventory system
+- create menu interaction and control
 
 Storyline - Jon Elliotson
 Pixel art - Jon Elliotson
