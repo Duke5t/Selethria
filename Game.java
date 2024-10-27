@@ -34,7 +34,7 @@ public class Game extends Canvas implements Runnable {
 
     public void init() {
         keyInput = new KeyInput();
-        tileMap = new TileMap("C:/Code/Java/Selethria/testTile4.csv", "/sprites/tilesets/plains.png"); //Hardcode: TileMap ( CSV Map File input , TileSheet PNG )
+        tileMap = new TileMap("C:/Code/Java/SelethriaV1.1/maps/homeTown/testTile4.csv", "/maps/tileSets/plains.png"); //Hardcode: TileMap ( CSV Map File input , TileSheet PNG )
         if (tileMap == null) {
             System.out.println("Failed to load TileMap");
         } else {
